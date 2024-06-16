@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      nizark
+HostName                       micron4.eng.tau.ac.il
+ProcessIdentifier              11284
+ProcessCreationTime_UTC        1713184657
+ProcessCreationTime_Readable   Mon Apr 15 15:37:37 2024 IDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /project/gpdk45/users/nizark/ws/FinalProject/XOR_Line/symbol/symbol.oa.cdslck
+TimeEditLocked                 Tue Apr 16 13:15:19 2024 IDT

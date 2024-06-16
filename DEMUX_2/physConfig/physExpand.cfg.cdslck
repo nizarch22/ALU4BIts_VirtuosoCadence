@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      shadimahajna
+HostName                       micron2.eng.tau.ac.il
+ProcessIdentifier              11210
+ProcessCreationTime_UTC        1713628201
+ProcessCreationTime_Readable   Sat Apr 20 18:50:01 2024 IDT
+AppIdentifier                  /tools/cadence/IC/06.18.290/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /project/gpdk45/users/shadimahajna/ws/course_fall_2024/DEMUX_1bit_13/physConfig/physExpand.cfg
+TimeEditLocked                 Sat Apr 20 20:46:16 2024 IDT
